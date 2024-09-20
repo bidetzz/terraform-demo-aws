@@ -41,7 +41,7 @@ Change the access_key and secret_key with your own values from your IAM user.
 Then you can run this command to define the environment variable that will be used to connect to the specific AWS account desired:
 
 ```shell
-export AWS_PROFILE=first-profile
+export AWS_PROFILE=first-aws-account
 ```
 2. Clone this project!
 
